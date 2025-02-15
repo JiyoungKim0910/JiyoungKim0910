@@ -1,5 +1,6 @@
-## Hi there 👋
+## Welcome to Jiyoung's github 👋
 
+<h3 align="center">✨ Tech Stack ✨</h3>
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 <!--
 **JiyoungKim0910/JiyoungKim0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
